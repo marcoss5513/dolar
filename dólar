@@ -1,0 +1,16 @@
+Declaração
+ Cotação valor=5,17
+ Dólar valor=10
+ Resultado: Inteiro=51,70 
+
+ ínicio
+Escreva ("Digite cotação");
+Leia (núnemro cotação);
+Escreva ("Digite valor do dólar");
+Leia (número dólar);
+Resultado<-número cotação*número dólar;
+Escreva("o resultado é:");
+Escreva (resultado);
+Leia (resultado);
+
+Fim-algoritmo
